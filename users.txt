@@ -1,0 +1,3 @@
+si,li si;/bin/bash
+san,zhang san;/bin/bash
+wu,wang wu;/bin/bash
